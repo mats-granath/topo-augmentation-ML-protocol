@@ -1,6 +1,8 @@
 # topo-augmentation-ML-protocol
 
-Contains code for <a href="https://arxiv.org/abs/1908.03469">https://arxiv.org/abs/1908.03469</a>
+Contains code for [arXiv:1908.03469](https://arxiv.org/abs/1908.03469), [Phys. Rev. Research 2, 013354 (2020)](https://doi.org/10.1103/PhysRevResearch.2.013354)
+
+### Unsupervised learning using topological data augmentation ###
 
 1. Produce datasets of topologically equivalent samples using topological data augmentation.
 
